@@ -78,14 +78,6 @@
   
 </div>
 
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="www.behance.net/kalinecerqueira">behance</a> ♡
-      </samp>
-  </p>
-</div>
-<br>
 
 </details>
 
