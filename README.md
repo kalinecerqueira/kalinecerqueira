@@ -71,7 +71,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kalinecerqueira@proton.me)
+  [![ProtonMail](https://img.shields.io/badge/ProtonMail-755b25?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:kalinecerqueira@proton.me)
   [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kalicerq/?next=%2F)
   [![Discord](https://img.shields.io/badge/Discord-755b25?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/PKS8F2hz)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kalinecerqueira/)
